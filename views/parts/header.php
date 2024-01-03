@@ -31,8 +31,10 @@
                 <div class="col-lg-4 col-md-4 col-sm-4">
                     <div class="top-social">
                         <ul>
-                            <li><a href="/"><i class="fa fa-facebook"></i></a></li>
-
+                            <li><a href="https://www.facebook.com/shetechtiveuganda/"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://twitter.com/shetechtive"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://www.instagram.com/shetechtive/?hl=en"><i class="fa fa-instagram"></i></a></li>
+                            <li><a href="https://www.linkedin.com/company/shetechtive-uganda"><i class="fa fa-linkedin"></i></a></li>
                         </ul>
                     </div>
                 </div>

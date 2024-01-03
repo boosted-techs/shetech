@@ -26,7 +26,7 @@ include "parts/header.php";
                                     <a class="btn btn-primary" href="#mission-section">Our Mission</a>
                                 </div>
                                 <div class="layer-1-4 wow bounceInUp" data-wow-duration="0.6s" data-wow-delay="1.0s">
-                                    <a class="stat" href="#"><img src="/assets/img/slider/caption4_slider1.png" alt=""></a>
+                                    <a class="stat" href="https://www.femmeforteug.org/donations"><img src="/assets/img/slider/caption4_slider1.png" alt=""></a>
                                 </div>
                             </div>
                         </div>
@@ -83,9 +83,16 @@ include "parts/header.php";
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
                     <div class="who-are-we-txt">
+                        <p style="text-align:left; margin-bottom: 20px">
+                            Working at the intersection of tech , climate and health to create a level playing ground for girls and women .
+                            <br/>For inspiration, see the home page of website <a href="https://www.femmeforteug.org/" class="text-primary">https://www.femmeforteug.org/</a>
+
+                        </p>
                         <h2 class="section-title-black" style="text-align:left"><strong>Who Are We?</strong></h2>
-                        <p  style="text-align:left">SheTechive Limited is not just a software development company; we are architects of empowerment. <br/><b>Our mission</b> is to propel girls and young women into a future where technology is a vehicle for social, economic, and political wellbeing.</p>
+
+                        <p  style="text-align:left; margin-top: 20px;">SheTechive Limited is not just a software development company; we are architects of empowerment. <br/><b>Our mission</b> is to propel girls and young women into a future where technology is a vehicle for social, economic, and political wellbeing.</p>
                         <p  style="text-align:left; margin-top: 20px;">Our journey is woven with the threads of innovation and a commitment to providing the right technology tools for every girl and young woman. We envision a world where their potential knows no bounds, where they thrive with the aid of cutting-edge solutions.</p>
                         <p  style="text-align:left; margin-top: 20px;">SheTechive Limited stands at the intersection of technology and empowerment, fostering inclusion and creating opportunities that resonate beyond code and circuits. Join us in shaping a future where every girl and young woman has the keys to unlock their full potential.</p>
                     </div>
@@ -135,7 +142,7 @@ include "parts/header.php";
                                     <p>Empower girls through education and provide them with the tools they need to shape a brighter future.</p>
                                 </div>
                                 <div class="cause-dnt">
-                                    <a href="#">Donate Now</a>
+                                    <a href="https://www.femmeforteug.org/donations">Donate Now</a>
                                 </div>
                             </div>
                         </div>

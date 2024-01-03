@@ -3,7 +3,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>SheTechTIVE</title>
+    <title>Shetechtive</title>
+    <meta name="description" content="Working at the intersection of tech , climate and health to create a level playing ground for girls and women . "/>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- favicon -->
@@ -107,7 +108,7 @@
                                 <li><a href="/about-us">About us</a></li>
                                 <li><a href="/contact-us">Contact us</a></li>
 
-                                <li><a href="https://www.femmeforteug.org/ "><span class="donate-tdy">Donate Today!</span></a></li>
+                                <li><a href="https://www.femmeforteug.org/donations"><span class="donate-tdy">Donate Today!</span></a></li>
                             </ul>
                         </nav>
                     </div>

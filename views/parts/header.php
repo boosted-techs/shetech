@@ -103,11 +103,11 @@
                                     <a href="/">Home</a>
 
                                 </li>
-                                <li><a href="/causes">Causes</a></li>
+                                <li><a href="/gawah">GAWAH</a></li>
                                 <li><a href="/about-us">About us</a></li>
                                 <li><a href="/contact-us">Contact us</a></li>
 
-                                <li><a href="/donate"><span class="donate-tdy">Donate Today!</span></a></li>
+                                <li><a href="https://www.femmeforteug.org/ "><span class="donate-tdy">Donate Today!</span></a></li>
                             </ul>
                         </nav>
                     </div>
@@ -125,50 +125,15 @@
                 <div class="mobile-menu">
                     <nav id="dropdown">
                         <ul>
-                            <li><a href="index.html">Home</a>
-                                <ul>
-                                    <li><a href="index.html">Home Default</a></li>
-                                    <li><a href="index-2.html">Home Blue</a></li>
-                                    <li><a href="index-3.html">Home Turquoise</a></li>
-                                </ul>
+                            <li class="active parent">
+                                <a href="/">Home</a>
+
                             </li>
-                            <li><a href="causes.html">Causes</a></li>
-                            <li><a href="portfolio.html">Portfolio</a></li>
-                            <li><a href="blog.html">Blog</a></li>
-                            <li><a href="index.html#">Pages</a>
-                                <ul>
-                                    <li>
-                                        <a href="index.html#">page set 1</a>
-                                        <ul>
-                                            <li><a href="shopping-cart.html">Cart</a></li>
-                                            <li><a href="shop-leftsidebar.html">Shop left sidebar</a></li>
-                                            <li><a href="shop-rightsidebar.html">Shop right sidebar</a></li>
-                                            <li><a href="shop-list.html">Shop list</a></li>
-                                            <li><a href="shop-fullwidth.html">Shop fullwidth</a></li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a href="index.html#">page set 2</a>
-                                        <ul>
-                                            <li><a href="blog-details.html">Blog details</a></li>
-                                            <li><a href="checkout.html">Checkout</a></li>
-                                            <li><a href="contact-us.html">Contact us</a></li>
-                                            <li><a href="gallery.html">Gallery</a></li>
-                                            <li><a href="my-account.html">My account</a></li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a href="index.html#">page set 3</a>
-                                        <ul>
-                                            <li><a href="services.html">Services</a></li>
-                                            <li><a href="single-product.html">Single product</a></li>
-                                            <li><a href="team-member.html">Team member</a></li>
-                                            <li><a href="wishlist.html">Wishlist</a></li>
-                                            <li><a href="404.html">404</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
+                            <li><a href="/gawah">GAWAH</a></li>
+                            <li><a href="/about-us">About us</a></li>
+                            <li><a href="/contact-us">Contact us</a></li>
+
+                            <li><a href="https://www.femmeforteug.org/"><span class="donate-tdy">Donate Today!</span></a></li>
                         </ul>
                     </nav>
                 </div>

@@ -14,6 +14,10 @@ class HomeController extends BaseController
         $this->view->render("home");
     }
 
+    function gawah(){
+        $this->view->render("gawah");
+    }
+
     function contactUs()
     {
         $this->view->render("contact");
